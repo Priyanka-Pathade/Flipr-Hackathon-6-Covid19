@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Requirements to build app:
 - Reactjs 
+  (npx create-react-app covid)
 
 ## Available Scripts
 
