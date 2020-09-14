@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster+Two:ital,wght@1,700&display=swap');
+a{
+  color: black !important;
+}
+#covid{
+  font-family: 'Anton', sans-serif;
+  font-family: 'Lobster Two', cursive;
+    /* color: rgb(250, 117, 9); */
+    color: #dd2c00;
+    margin-top: 10px;
+}
+/* body{
+  background-color: black !important;
+} */
+  #firstTask {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    /* border: 3px solid #ddd; */
+    width: 50%;
+    margin-left: 20% ;
+    margin-top: 5%;
+  }
+  
+  #firstTask td, #firstTask th {
+    /* border: 1px solid #ddd; */
+    padding: 8px;
+  }
+  
+  #firstTask tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #firstTask tr:hover {background-color: #ddd;}
+  
+  #firstTask th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    /* background-color: #4CAF50; */
+    background-color: rgb(85, 87, 81);
+    color: white;
+  }
+
+
+/* second task css */
+#secondTask {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  /* border: 3px solid #ddd; */
+  width: 60%;
+  /* margin-left: 20% ; */
+  margin: auto;
+}
+
+#secondTask td, #secondTask th {
+  /* border: 1px solid #ddd; */
+  padding: 8px;
+}
+
+#secondTask tr:nth-child(even){background-color: #f2f2f2;}
+
+#secondTask tr:hover {background-color: #ddd;}
+
+#secondTask th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color:black;
+  color: white;
+}
+
+/* third task css */
+#thirdTask {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  /* border: 3px solid #ddd; */
+  width: 50%;
+  margin-left: 20% ;
+  margin-top: 5%;
+}
+
+#thirdTask td, #thirdTask th {
+  /* border: 1px solid #ddd; */
+  padding: 8px;
+}
+
+#thirdTask tr:nth-child(even){background-color: #f2f2f2;}
+
+#thirdTask tr:hover {background-color: #ddd;}
+
+#thirdTask th {
+  /* padding-top: 12px; */
+  /* padding-bottom: 12px; */
+  text-align: center;
+  /* background-color: #4CAF50; */
+  background-color: rgb(85, 87, 81);
+  color: white;
+}
+ 
+
+/* third task card css */
+#cardSummary{
+  background-color: rgb(4, 12, 14);
+  text-align: center;
+  color: rgb(175, 40, 92);
+}
+.mycard{
+   margin-left: 30% ;
+   
+}
+
+.mynav{
+  margin-top: 1%;
+  margin-left: 0px;
+  margin-bottom: 3%;
+  font-size: 20px;
+  /* color: blue !important; */
+  /* background-color: rgb(216, 214, 84); */
+  background-color: #ffff00;
+
+}
