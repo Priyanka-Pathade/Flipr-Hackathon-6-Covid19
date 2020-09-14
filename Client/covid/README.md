@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Requirements to build app:
 - Reactjs 
   (npx create-react-app covid)
+- Json-Server
+(npm install json-server –g json-server –watch db.json –p 3001 –d 2000)
+- Here db.json is json data required for a drawing graph and ‘localhost:3001/data’ will act as api .
+
 
 ## Available Scripts
 
