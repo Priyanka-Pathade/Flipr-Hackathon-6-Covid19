@@ -23,7 +23,8 @@
 **7.Paginate**
 - npm install react-paginate --save
 
-## Note 
+#### Note
+
 - (Commands work for windows)
 
 ### Steps to run app:
