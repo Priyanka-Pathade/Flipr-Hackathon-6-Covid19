@@ -29,5 +29,5 @@
 ### Steps to run the app:
 
 - Clone the project and install all dependencies mentioned above.
-- Go to path project->server->json-server and run server using command “json-server –watch db.json –p 3001 –d2000”.
+- Go to path project->server->json-server and run server using command “json-server -–watch db.json –p 3001 –d 2000”.
 - Go to path project->client->covid and run command “npm start”.
